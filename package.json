@@ -1,0 +1,22 @@
+{
+  "name": "graphql_first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Danill Yudhistira Setiawan",
+  "license": "ISC",
+  "date": "13 July 2020"
+}
