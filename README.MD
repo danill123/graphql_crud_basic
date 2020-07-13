@@ -1,4 +1,4 @@
->(pertama kali yang harus dilakukan setelah clone git) instalasi dependencies
+>(pertama kali yang harus dilakukan setelah clone git)
 buka folder `cd graphql_crud_basic`
 kemudian install depenciesnya dengan perintah `npm install`
 
